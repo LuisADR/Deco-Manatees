@@ -1,0 +1,386 @@
+[29dic2020 20:00:03.749] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 35.1.4, --fml.mcpVersion, 20201102.104115, --fml.mcVersion, 1.16.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[29dic2020 20:00:03.753] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.6+85+master.325de55 starting: java version 1.8.0_271 by Oracle Corporation
+[29dic2020 20:00:04.696] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29dic2020 20:00:04.738] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/E:/Reforestal/Deco-Manatees/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[29dic2020 20:00:06.890] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[29dic2020 20:00:19.535] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\pamhc2crops.toml is not correct. Correcting
+[29dic2020 20:00:19.562] [modloading-worker-5/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 35.1.4, for MC 1.16.4 with MCP 20201102.104115
+[29dic2020 20:00:19.536] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\pamhc2trees.toml is not correct. Correcting
+[29dic2020 20:00:19.698] [modloading-worker-5/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v35.1.4 Initialized
+[29dic2020 20:00:19.657] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden World Generation Rates was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:19.749] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:19.806] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden World Generation Rates.Probability of gardens generating was corrected from null to 2
+[29dic2020 20:00:19.810] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates.Probability of temperate fruit trees generating was corrected from null to 5000
+[29dic2020 20:00:19.846] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates.Probability of warm fruit trees generating was corrected from null to 5000
+[29dic2020 20:00:19.848] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates.Probability of cold fruit trees generating was corrected from null to 5000
+[29dic2020 20:00:19.919] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:19.847] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Rates was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:20.139] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:20.126] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\invtweaks-client.toml is not correct. Correcting
+[29dic2020 20:00:20.242] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:20.156] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Rates.Probability of gardens generating was corrected from null to 2
+[29dic2020 20:00:20.864] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sorting was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:20.977] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sorting.category was corrected from null to [SimpleCommentedConfig:{name=sword, spec=[/instanceof:net.minecraft.item.SwordItem]}, SimpleCommentedConfig:{name=axe, spec=[/instanceof:net.minecraft.item.AxeItem]}, SimpleCommentedConfig:{name=pickaxe, spec=[/instanceof:net.minecraft.item.PickaxeItem]}, SimpleCommentedConfig:{name=shovel, spec=[/instanceof:net.minecraft.item.ShovelItem]}, SimpleCommentedConfig:{name=acceptableFood, spec=[/instanceof:net.minecraft.item.Food; !minecraft:rotten_flesh; !minecraft:spider_eye; !minecraft:poisonous_potato; !minecraft:pufferfish]}, SimpleCommentedConfig:{name=torch, spec=[minecraft:torch]}, SimpleCommentedConfig:{name=cheapBlocks, spec=[/tag:minecraft:cobblestone, /tag:minecraft:dirt]}, SimpleCommentedConfig:{name=blocks, spec=[/instanceof:net.minecraft.item.BlockItem]}]
+[29dic2020 20:00:20.982] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sorting.rules was corrected from null to [D /LOCKED, A1-C9 /OTHER]
+[29dic2020 20:00:20.984] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sorting.containerOverrides was corrected from null to [SimpleCommentedConfig:{containerClass=com.tfar.craftingstation.CraftingStationContainer, sortRange=}, SimpleCommentedConfig:{containerClass=tfar.dankstorage.container.DankContainers, sortRange=}, SimpleCommentedConfig:{containerClass=mcjty.rftoolsutility.modules.crafter.blocks.CrafterContainer, sortRange=}]
+[29dic2020 20:00:20.770] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable tall grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:20.989] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tweaks was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:20.943] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Sizes was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.058] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable fern blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:21.059] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tweaks.autoRefill was corrected from null to true
+[29dic2020 20:00:21.061] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Sizes.Probability of gardens generating was corrected from null to 32
+[29dic2020 20:00:21.061] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tweaks.quickView was corrected from null to true
+[29dic2020 20:00:21.062] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.062] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.079] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:21.077] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tweaks.enableSort was corrected from null to 3
+[29dic2020 20:00:21.080] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:21.079] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate apple trees was corrected from null to true
+[29dic2020 20:00:21.081] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable tall grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:21.080] [modloading-worker-7/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tweaks.enableButtons was corrected from null to 3
+[29dic2020 20:00:21.082] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable fern blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:21.082] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate avocado trees was corrected from null to true
+[29dic2020 20:00:21.084] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.085] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate arid gardens was corrected from null to true
+[29dic2020 20:00:21.085] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate frost gardens was corrected from null to true
+[29dic2020 20:00:21.086] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate candlenut trees was corrected from null to true
+[29dic2020 20:00:21.086] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate tropical gardens was corrected from null to true
+[29dic2020 20:00:21.086] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate cherry trees was corrected from null to true
+[29dic2020 20:00:21.087] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate windy gardens was corrected from null to true
+[29dic2020 20:00:21.092] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate chestnut trees was corrected from null to true
+[29dic2020 20:00:21.092] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate shaded gardens was corrected from null to true
+[29dic2020 20:00:21.093] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate gooseberry trees was corrected from null to true
+[29dic2020 20:00:21.093] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate soggy gardens was corrected from null to true
+[29dic2020 20:00:21.094] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate lemon trees was corrected from null to true
+[29dic2020 20:00:21.096] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate nutmeg trees was corrected from null to true
+[29dic2020 20:00:21.096] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.097] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:21.097] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate orange trees was corrected from null to true
+[29dic2020 20:00:21.098] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate peach trees was corrected from null to true
+[29dic2020 20:00:21.098] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pear trees was corrected from null to true
+[29dic2020 20:00:21.099] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.103] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate plum trees was corrected from null to true
+[29dic2020 20:00:21.103] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.white_dim was corrected from null to [minecraft:overworld]
+[29dic2020 20:00:21.105] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.black_dim was corrected from null to [minecraft:the_end, minecraft:the_nether]
+[29dic2020 20:00:21.104] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate walnut trees was corrected from null to true
+[29dic2020 20:00:21.106] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate spiderweb trees was corrected from null to true
+[29dic2020 20:00:21.108] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate hazelnut trees was corrected from null to true
+[29dic2020 20:00:21.109] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pawpaw trees was corrected from null to true
+[29dic2020 20:00:21.109] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate soursop trees was corrected from null to true
+[29dic2020 20:00:21.110] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate almond trees was corrected from null to true
+[29dic2020 20:00:21.111] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate apricot trees was corrected from null to true
+[29dic2020 20:00:21.115] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate banana trees was corrected from null to true
+[29dic2020 20:00:21.117] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate cashew trees was corrected from null to true
+[29dic2020 20:00:21.118] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate cinnamon trees was corrected from null to true
+[29dic2020 20:00:21.118] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate coconut trees was corrected from null to true
+[29dic2020 20:00:21.119] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate date trees was corrected from null to true
+[29dic2020 20:00:21.119] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate dragonfruit trees was corrected from null to true
+[29dic2020 20:00:21.120] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate durian trees was corrected from null to true
+[29dic2020 20:00:21.120] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate fig trees was corrected from null to true
+[29dic2020 20:00:21.121] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate grapefruit trees was corrected from null to true
+[29dic2020 20:00:21.121] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate lime trees was corrected from null to true
+[29dic2020 20:00:21.122] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate mango trees was corrected from null to true
+[29dic2020 20:00:21.122] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate olive trees was corrected from null to true
+[29dic2020 20:00:21.123] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate papaya trees was corrected from null to true
+[29dic2020 20:00:21.127] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate paperbark trees was corrected from null to true
+[29dic2020 20:00:21.127] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pecan trees was corrected from null to true
+[29dic2020 20:00:21.128] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate peppercorn trees was corrected from null to true
+[29dic2020 20:00:21.128] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate persimmon trees was corrected from null to true
+[29dic2020 20:00:21.129] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pistachio trees was corrected from null to true
+[29dic2020 20:00:21.130] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pomegranate trees was corrected from null to true
+[29dic2020 20:00:21.130] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate starfruit trees was corrected from null to true
+[29dic2020 20:00:21.131] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate vanillabean trees was corrected from null to true
+[29dic2020 20:00:21.131] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate breadfruit trees was corrected from null to true
+[29dic2020 20:00:21.132] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate guava trees was corrected from null to true
+[29dic2020 20:00:21.132] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate jackfruit trees was corrected from null to true
+[29dic2020 20:00:21.133] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate lychee trees was corrected from null to true
+[29dic2020 20:00:21.134] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate passionfruit trees was corrected from null to true
+[29dic2020 20:00:21.139] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate rambutan trees was corrected from null to true
+[29dic2020 20:00:21.139] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate tamarind trees was corrected from null to true
+[29dic2020 20:00:21.140] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate maple trees was corrected from null to true
+[29dic2020 20:00:21.140] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pinenut trees was corrected from null to true
+[29dic2020 20:00:21.142] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.143] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:21.145] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:21.146] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.white_dim was corrected from null to [minecraft:overworld]
+[29dic2020 20:00:21.147] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.black_dim was corrected from null to [minecraft:the_end, minecraft:the_nether]
+[29dic2020 20:00:22.770] [modloading-worker-4/ERROR] [net.minecraft.util.Util/]: No data fixer registered for cfm:seat
+[29dic2020 20:00:24.058] [main/INFO] [mcwdoors/]: Blocks registered.
+[29dic2020 20:00:24.194] [main/INFO] [mcwtrpdoors/]: Blocks registered.
+[29dic2020 20:00:24.589] [main/INFO] [mcwwindows/]: Blocks registered.
+[29dic2020 20:00:25.015] [main/INFO] [mcwdoors/]: Items registered.
+[29dic2020 20:00:25.022] [main/INFO] [mcwtrpdoors/]: Items registered.
+[29dic2020 20:00:25.086] [main/INFO] [mcwwindows/]: Items registered.
+[29dic2020 20:00:25.371] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for decorative_blocks:dummy
+[29dic2020 20:00:25.415] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for fairylights:fastener
+[29dic2020 20:00:25.698] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\decorative_blocks-common.toml is not correct. Correcting
+[29dic2020 20:00:25.700] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.701] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.bonfire activator was corrected from null to minecraft:blaze_powder
+[29dic2020 20:00:25.702] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.thatch enabled was corrected from null to true
+[29dic2020 20:00:25.725] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\cfm-common.toml is not correct. Correcting
+[29dic2020 20:00:25.726] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mail was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.737] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mail.maxMailQueue was corrected from null to 20
+[29dic2020 20:00:25.742] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mail.pullMailInterval was corrected from null to 20
+[29dic2020 20:00:25.777] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\fairylights-common.toml is not correct. Correcting
+[29dic2020 20:00:25.779] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.779] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.christmas_jingles was corrected from null to true
+[29dic2020 20:00:25.780] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.jingles_amplitude was corrected from null to 40
+[29dic2020 20:00:25.790] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\cookingforblockheads-common.toml is not correct. Correcting
+[29dic2020 20:00:25.791] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cowJarEnabled was corrected from null to true
+[29dic2020 20:00:25.794] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cowJarMilkPerTick was corrected from null to 0.5
+[29dic2020 20:00:25.795] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sinkRequiresWater was corrected from null to false
+[29dic2020 20:00:25.797] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key largeCounters was corrected from null to false
+[29dic2020 20:00:25.799] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disallowOvenAutomation was corrected from null to false
+[29dic2020 20:00:25.815] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ovenFuelTimeMultiplier was corrected from null to 0.33000001311302185
+[29dic2020 20:00:25.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ovenCookTimeMultiplier was corrected from null to 1.0
+[29dic2020 20:00:25.819] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ovenRequiresCookingOil was corrected from null to false
+[29dic2020 20:00:25.824] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file E:\Reforestal\Deco-Manatees\config\chiselsandbits-common.toml is not correct. Correcting
+[29dic2020 20:00:25.825] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.826] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.help was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.828] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.help.common was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.828] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.help.common.help was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.829] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.help.common.help.enabled was corrected from null to true
+[29dic2020 20:00:25.829] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.830] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common.performance was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.830] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common.performance.common was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.831] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common.performance.common.performance was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.831] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common.performance.common.performance.collisions was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.832] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common.performance.common.performance.collisions.cache was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:25.833] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.common.performance.common.performance.collisions.cache.size was corrected from null to 10000
+[29dic2020 20:00:25.836] [modloading-worker-2/INFO] [mcwdoors/]: Setup method registered
+[29dic2020 20:00:25.858] [modloading-worker-0/INFO] [mcwwindows/]: Setup method registered
+[29dic2020 20:00:25.861] [modloading-worker-4/INFO] [mcwtrpdoors/]: Setup method registered
+[29dic2020 20:00:26.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
+[29dic2020 20:00:26.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: BETA Current: 2.0.0 Target: null
+[29dic2020 20:00:26.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[29dic2020 20:00:26.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: BETA Current: 1.0.1 Target: null
+[29dic2020 20:00:26.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cfm/update.json
+[29dic2020 20:00:26.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Found status: BETA Current: 7.0.0-pre19 Target: null
+[29dic2020 20:00:26.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[29dic2020 20:00:27.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: BETA Current: 1.0.0 Target: null
+[29dic2020 20:00:27.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[29dic2020 20:00:27.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: BETA Current: 1.0.2 Target: null
+[29dic2020 20:00:27.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[29dic2020 20:00:27.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 35.1.4 Target: null
+[29dic2020 20:00:33.271] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29dic2020 20:00:34.170] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29dic2020 20:00:34.173] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29dic2020 20:00:34.190] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29dic2020 20:00:34.197] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29dic2020 20:00:34.235] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29dic2020 20:00:34.249] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, decorative_blocks-1.16.4-1.7.0.jar, pamhc2trees-1.16.3-1.0.0.jar, mcws-roofs-2.0.0-mc1.16.4.jar, pamhc2crops-1.16.3-1.0.1.jar, mcw-doors-1.0.1fix-mc1.16.4.jar, furniture-7.0.0-pre19-1.16.3.jar, mcw-trapdors-1.0.0-mc1.16.4.jar, jei-1.16.4-7.6.0.62.jar, fairylights-4.0.4-1.16.4.jar, pamhc2foodextended-1.16.3-1.0.0.jar, mcw-windows-1.0.2-mc1.16.4.jar, forge-1.16.4-35.1.4-universal.jar, invtweaks-1.16.2-1.0.0.jar, chiselsandbits-0.2.8-RELEASE.jar, pamhc2foodcore-1.16.3-1.0.0.jar, CookingForBlockheads_1.16.3-9.2.2.jar
+[29dic2020 20:00:36.817] [Worker-Main-14/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[29dic2020 20:00:38.029] [Worker-Main-14/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement decorative_blocks:recipes/decorations/brazier: Unknown item id 'minecraft:iron_bar'
+[29dic2020 20:00:38.059] [Worker-Main-14/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement decorative_blocks:recipes/decorations/soul_brazier: Unknown item id 'minecraft:iron_bar'
+[29dic2020 20:00:38.097] [Worker-Main-14/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 999 advancements
+[29dic2020 20:00:41.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.4
+[29dic2020 20:00:41.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29dic2020 20:00:41.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29dic2020 20:00:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29dic2020 20:00:42.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29dic2020 20:00:42.037] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[29dic2020 20:00:42.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\pamhc2crops.toml is not correct. Correcting
+[29dic2020 20:00:42.695] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden World Generation Rates was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.696] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden World Generation Rates.Probability of gardens generating was corrected from null to 2
+[29dic2020 20:00:42.697] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Rates was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.697] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Rates.Probability of gardens generating was corrected from null to 2
+[29dic2020 20:00:42.699] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Sizes was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.699] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak Garden Cluster Sizes.Probability of gardens generating was corrected from null to 32
+[29dic2020 20:00:42.701] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.702] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:42.702] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:42.703] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable tall grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:42.703] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable fern blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:42.705] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.707] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate arid gardens was corrected from null to true
+[29dic2020 20:00:42.707] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate frost gardens was corrected from null to true
+[29dic2020 20:00:42.708] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate tropical gardens was corrected from null to true
+[29dic2020 20:00:42.708] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate windy gardens was corrected from null to true
+[29dic2020 20:00:42.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate shaded gardens was corrected from null to true
+[29dic2020 20:00:42.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate soggy gardens was corrected from null to true
+[29dic2020 20:00:42.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:42.711] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.712] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.white_dim was corrected from null to [minecraft:overworld]
+[29dic2020 20:00:42.712] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.black_dim was corrected from null to [minecraft:the_end, minecraft:the_nether]
+[29dic2020 20:00:42.717] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\pamhc2trees.toml is not correct. Correcting
+[29dic2020 20:00:42.719] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.719] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates.Probability of temperate fruit trees generating was corrected from null to 5000
+[29dic2020 20:00:42.720] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates.Probability of warm fruit trees generating was corrected from null to 5000
+[29dic2020 20:00:42.720] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Tweak World Generation Rates.Probability of cold fruit trees generating was corrected from null to 5000
+[29dic2020 20:00:42.722] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.722] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:42.723] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:42.723] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable tall grass blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:42.724] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Features.Enable fern blocks dropping seeds was corrected from null to false
+[29dic2020 20:00:42.725] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.726] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate apple trees was corrected from null to true
+[29dic2020 20:00:42.728] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate avocado trees was corrected from null to true
+[29dic2020 20:00:42.728] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate candlenut trees was corrected from null to true
+[29dic2020 20:00:42.729] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate cherry trees was corrected from null to true
+[29dic2020 20:00:42.729] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate chestnut trees was corrected from null to true
+[29dic2020 20:00:42.730] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate gooseberry trees was corrected from null to true
+[29dic2020 20:00:42.731] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate lemon trees was corrected from null to true
+[29dic2020 20:00:42.732] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate nutmeg trees was corrected from null to true
+[29dic2020 20:00:42.732] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate orange trees was corrected from null to true
+[29dic2020 20:00:42.733] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate peach trees was corrected from null to true
+[29dic2020 20:00:42.734] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pear trees was corrected from null to true
+[29dic2020 20:00:42.735] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate plum trees was corrected from null to true
+[29dic2020 20:00:42.736] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate walnut trees was corrected from null to true
+[29dic2020 20:00:42.736] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate spiderweb trees was corrected from null to true
+[29dic2020 20:00:42.737] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate hazelnut trees was corrected from null to true
+[29dic2020 20:00:42.739] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pawpaw trees was corrected from null to true
+[29dic2020 20:00:42.739] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate soursop trees was corrected from null to true
+[29dic2020 20:00:42.740] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate almond trees was corrected from null to true
+[29dic2020 20:00:42.740] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate apricot trees was corrected from null to true
+[29dic2020 20:00:42.741] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate banana trees was corrected from null to true
+[29dic2020 20:00:42.742] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate cashew trees was corrected from null to true
+[29dic2020 20:00:42.742] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate cinnamon trees was corrected from null to true
+[29dic2020 20:00:42.742] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate coconut trees was corrected from null to true
+[29dic2020 20:00:42.743] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate date trees was corrected from null to true
+[29dic2020 20:00:42.743] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate dragonfruit trees was corrected from null to true
+[29dic2020 20:00:42.744] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate durian trees was corrected from null to true
+[29dic2020 20:00:42.745] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate fig trees was corrected from null to true
+[29dic2020 20:00:42.745] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate grapefruit trees was corrected from null to true
+[29dic2020 20:00:42.745] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate lime trees was corrected from null to true
+[29dic2020 20:00:42.746] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate mango trees was corrected from null to true
+[29dic2020 20:00:42.747] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate olive trees was corrected from null to true
+[29dic2020 20:00:42.750] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate papaya trees was corrected from null to true
+[29dic2020 20:00:42.750] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate paperbark trees was corrected from null to true
+[29dic2020 20:00:42.751] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pecan trees was corrected from null to true
+[29dic2020 20:00:42.752] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate peppercorn trees was corrected from null to true
+[29dic2020 20:00:42.753] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate persimmon trees was corrected from null to true
+[29dic2020 20:00:42.753] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pistachio trees was corrected from null to true
+[29dic2020 20:00:42.753] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pomegranate trees was corrected from null to true
+[29dic2020 20:00:42.754] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate starfruit trees was corrected from null to true
+[29dic2020 20:00:42.754] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate vanillabean trees was corrected from null to true
+[29dic2020 20:00:42.755] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate breadfruit trees was corrected from null to true
+[29dic2020 20:00:42.755] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate guava trees was corrected from null to true
+[29dic2020 20:00:42.756] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate jackfruit trees was corrected from null to true
+[29dic2020 20:00:42.756] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate lychee trees was corrected from null to true
+[29dic2020 20:00:42.757] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate passionfruit trees was corrected from null to true
+[29dic2020 20:00:42.757] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate rambutan trees was corrected from null to true
+[29dic2020 20:00:42.758] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate tamarind trees was corrected from null to true
+[29dic2020 20:00:42.760] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate maple trees was corrected from null to true
+[29dic2020 20:00:42.761] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enable/Disable Garden World Generation.Generate pinenut trees was corrected from null to true
+[29dic2020 20:00:42.763] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.764] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Right-click Harvesting Settings.Enable right-click harvesting for crops was corrected from null to true
+[29dic2020 20:00:42.776] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.776] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.white_dim was corrected from null to [minecraft:overworld]
+[29dic2020 20:00:42.777] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dimensions Settings.black_dim was corrected from null to [minecraft:the_end, minecraft:the_nether]
+[29dic2020 20:00:42.783] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\forge-server.toml is not correct. Correcting
+[29dic2020 20:00:42.784] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.785] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to false
+[29dic2020 20:00:42.785] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to false
+[29dic2020 20:00:42.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to false
+[29dic2020 20:00:42.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to 0.1
+[29dic2020 20:00:42.787] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to 0.05
+[29dic2020 20:00:42.789] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to true
+[29dic2020 20:00:42.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to false
+[29dic2020 20:00:42.791] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to 0
+[29dic2020 20:00:42.791] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to false
+[29dic2020 20:00:42.792] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to true
+[29dic2020 20:00:42.796] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\chiselsandbits-server.toml is not correct. Correcting
+[29dic2020 20:00:42.797] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.797] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.troubleshooting was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.798] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.troubleshooting.server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.801] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.troubleshooting.server.troubleshooting was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.802] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.troubleshooting.server.troubleshooting.logging was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.802] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.troubleshooting.server.troubleshooting.logging.tile-errors was corrected from null to true
+[29dic2020 20:00:42.803] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.troubleshooting.server.troubleshooting.logging.eligibility-errors was corrected from null to true
+[29dic2020 20:00:42.803] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.804] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.804] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.805] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.805] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.random-ticking-blocks was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.random-ticking-blocks.blacklisted was corrected from null to false
+[29dic2020 20:00:42.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.tools was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.807] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.tools.damage was corrected from null to true
+[29dic2020 20:00:42.807] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.tools.harvest-levels was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.tools.harvest-levels.enabled was corrected from null to true
+[29dic2020 20:00:42.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-tool was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.809] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-tool.harvest-check was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-tool.harvest-check.enabled was corrected from null to true
+[29dic2020 20:00:42.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-tool.harvest-check.tools was corrected from null to 
+[29dic2020 20:00:42.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bits was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bits.act-as-light-source was corrected from null to true
+[29dic2020 20:00:42.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bits.light-percentage was corrected from null to 6.25
+[29dic2020 20:00:42.814] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.compatibility-mode was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.814] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.compatibility-mode.enabled was corrected from null to false
+[29dic2020 20:00:42.815] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bag was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.816] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bag.stack-size was corrected from null to 512
+[29dic2020 20:00:42.816] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-uses was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.817] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-uses.stone was corrected from null to 12288
+[29dic2020 20:00:42.818] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-uses.iron was corrected from null to 110592
+[29dic2020 20:00:42.819] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-uses.diamond was corrected from null to 995328
+[29dic2020 20:00:42.819] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-uses.netherite was corrected from null to 8957952
+[29dic2020 20:00:42.820] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.chisel-uses.gold was corrected from null to 1024
+[29dic2020 20:00:42.823] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.wrench-uses was corrected from null to 1888
+[29dic2020 20:00:42.824] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.saw-uses was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.824] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.saw-uses.stone was corrected from null to 512
+[29dic2020 20:00:42.825] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.saw-uses.gold was corrected from null to 500
+[29dic2020 20:00:42.826] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.saw-uses.iron was corrected from null to 2048
+[29dic2020 20:00:42.826] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.saw-uses.diamond was corrected from null to 8192
+[29dic2020 20:00:42.827] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.saw-uses.netherite was corrected from null to 32768
+[29dic2020 20:00:42.827] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.full-block-crafting was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.828] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.full-block-crafting.enabled was corrected from null to true
+[29dic2020 20:00:42.828] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bag-space was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.829] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bag-space.required was corrected from null to true
+[29dic2020 20:00:42.829] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.bag-space.void-excess was corrected from null to true
+[29dic2020 20:00:42.830] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.clipboard was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.830] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.clipboard.size was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.831] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.clipboard.size.creative was corrected from null to 10
+[29dic2020 20:00:42.831] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.revertible was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.832] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.balancing.server.balancing.revertible.blocks was corrected from null to [*]
+[29dic2020 20:00:42.835] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.836] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server.performance was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.836] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server.performance.server was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.837] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server.performance.server.performance was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.837] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server.performance.server.performance.memory was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.837] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server.performance.server.performance.memory.low-mode was corrected from null to SimpleCommentedConfig:{}
+[29dic2020 20:00:42.838] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.server.server.performance.server.performance.memory.low-mode.enabled was corrected from null to false
+[29dic2020 20:00:42.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29dic2020 20:00:46.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29dic2020 20:00:46.735] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29dic2020 20:00:47.154] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29dic2020 20:00:47.679] [Worker-Main-12/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29dic2020 20:00:48.156] [Worker-Main-13/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[29dic2020 20:00:48.651] [Worker-Main-16/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[29dic2020 20:00:49.151] [Worker-Main-11/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[29dic2020 20:00:49.652] [Worker-Main-12/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[29dic2020 20:00:50.153] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[29dic2020 20:00:50.651] [Worker-Main-10/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[29dic2020 20:00:51.152] [Worker-Main-16/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[29dic2020 20:00:51.653] [Worker-Main-9/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[29dic2020 20:00:52.152] [Worker-Main-9/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 36%
+[29dic2020 20:00:52.652] [Worker-Main-9/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[29dic2020 20:00:53.151] [Worker-Main-8/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[29dic2020 20:00:53.650] [Worker-Main-11/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 53%
+[29dic2020 20:00:54.153] [Worker-Main-16/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[29dic2020 20:00:54.651] [Worker-Main-10/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 64%
+[29dic2020 20:00:55.159] [Worker-Main-12/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 70%
+[29dic2020 20:00:56.099] [Worker-Main-10/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[29dic2020 20:00:56.163] [Worker-Main-11/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[29dic2020 20:00:57.382] [Worker-Main-9/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[29dic2020 20:00:57.383] [Worker-Main-9/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[29dic2020 20:00:57.613] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 10963 ms
+[29dic2020 20:00:57.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.925s)! For help, type "help"
+[29dic2020 20:01:04.551] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Churrumais18 is 55dd927e-4b1f-436d-8dde-d7b4d4e30317
+[29dic2020 20:01:08.375] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@394fd205
+[29dic2020 20:01:08.391] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Churrumais18[/127.0.0.1:52267] logged in with entity id 283 at (-150.5, 72.0, 213.5)
+[29dic2020 20:01:08.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Churrumais18 joined the game
+[29dic2020 20:02:02.991] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Churrumais18 lost connection: Disconnected
+[29dic2020 20:02:02.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Churrumais18 left the game
+[29dic2020 20:02:12.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[29dic2020 20:02:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29dic2020 20:02:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29dic2020 20:02:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29dic2020 20:02:12.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29dic2020 20:02:15.619] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29dic2020 20:02:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29dic2020 20:02:15.622] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29dic2020 20:02:15.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29dic2020 20:02:15.705] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29dic2020 20:02:15.910] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29dic2020 20:02:16.320] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29dic2020 20:02:16.321] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
