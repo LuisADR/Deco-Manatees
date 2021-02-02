@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-01-11 06:49:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-31 05:25:46 +0000"
@@ -567,6 +573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-01-11 07:18:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/birch_palisade": {
     "criteria": {
       "has_log": "2020-12-31 04:42:47 +0000"
@@ -1097,6 +1109,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-12-31 04:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2021-01-11 07:18:11 +0000"
     },
     "done": true
   },

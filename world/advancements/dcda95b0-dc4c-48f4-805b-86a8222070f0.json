@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2021-01-11 08:17:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-12-30 03:27:56 +0000"
@@ -509,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-11 04:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-12-30 03:38:00 +0000"
@@ -572,6 +584,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-12-30 02:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
     },
     "done": true
   },
@@ -706,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2021-01-04 21:51:43 +0000"
@@ -814,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-30 03:17:59 +0000"
@@ -832,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-10 06:03:00 +0000"
@@ -847,6 +883,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-01-06 05:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-01-11 05:09:20 +0000"
     },
     "done": true
   },
@@ -964,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2021-01-11 05:09:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-12-31 06:57:48 +0000"
@@ -1051,6 +1099,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-10 05:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
     },
     "done": true
   },
@@ -1186,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-12-30 03:22:57 +0000"
@@ -1207,6 +1267,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-12-30 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
     },
     "done": true
   },
@@ -1450,6 +1516,7 @@
       "minecraft:deep_frozen_ocean": "2021-01-09 07:12:46 +0000",
       "minecraft:birch_forest": "2021-01-10 08:15:31 +0000",
       "minecraft:badlands": "2020-12-30 03:02:37 +0000",
+      "minecraft:savanna_plateau": "2021-01-11 06:18:56 +0000",
       "minecraft:beach": "2020-12-30 03:59:38 +0000",
       "minecraft:dark_forest": "2021-01-09 06:31:34 +0000",
       "minecraft:river": "2020-12-30 02:55:26 +0000",
@@ -1531,6 +1598,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-12-30 03:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
     },
     "done": true
   },
@@ -1618,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-12-30 03:32:09 +0000"
@@ -1651,6 +1730,12 @@
   "fairylights:recipes/fairylights/icicle_lights": {
     "criteria": {
       "has_iron": "2020-12-30 03:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-11 04:56:32 +0000"
     },
     "done": true
   },
@@ -1808,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2021-01-10 06:03:00 +0000"
@@ -1841,6 +1932,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-12-30 03:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-01-11 04:56:32 +0000"
     },
     "done": true
   },
@@ -2051,6 +2148,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-12-30 06:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-11 05:24:50 +0000"
     },
     "done": true
   },
