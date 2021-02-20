@@ -1,13 +1,32 @@
-[02Feb2021 18:29:45.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[02Feb2021 18:29:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02Feb2021 18:29:45.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02Feb2021 18:29:45.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02Feb2021 18:29:45.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02Feb2021 18:29:45.812] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02Feb2021 18:29:45.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02Feb2021 18:29:45.842] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02Feb2021 18:29:45.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02Feb2021 18:29:45.856] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02Feb2021 18:29:45.907] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02Feb2021 18:29:47.270] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02Feb2021 18:29:47.433] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2021 00:44:04.863] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DragonSushi0622 is fc1735ac-86a3-4510-8501-c279eac1be40
+[20Feb2021 00:44:07.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6c42c86f
+[20Feb2021 00:44:07.597] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DragonSushi0622[/189.203.29.98:33616] logged in with entity id 245210 at (-312.5474275758064, 92.0, 1206.4944525484912)
+[20Feb2021 00:44:07.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DragonSushi0622 joined the game
+[20Feb2021 01:24:50.544] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DragonSushi0622 lost connection: Disconnected
+[20Feb2021 01:24:50.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DragonSushi0622 left the game
+[20Feb2021 15:59:01.301] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player DragonSushi0622 is fc1735ac-86a3-4510-8501-c279eac1be40
+[20Feb2021 15:59:05.661] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@67d2e0b1
+[20Feb2021 15:59:05.686] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DragonSushi0622[/189.203.29.98:33426] logged in with entity id 251054 at (-310.3983742548389, 92.0, 1212.1976272678462)
+[20Feb2021 15:59:05.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DragonSushi0622 joined the game
+[20Feb2021 16:36:05.522] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.2639265063513676
+[20Feb2021 16:36:05.558] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.6611022834601954
+[20Feb2021 16:36:11.018] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.2684281879529635
+[20Feb2021 16:39:08.507] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/258872, l='ServerLevel[world]', x=-168.80, y=71.00, z=823.76]
+[20Feb2021 16:40:00.758] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.2607747014196775
+[20Feb2021 16:40:01.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.27029123051534043
+[20Feb2021 16:40:17.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.26893758653693567
+[20Feb2021 16:44:30.197] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.2627415574945644
+[20Feb2021 16:46:18.211] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Trufa (vehicle of DragonSushi0622) moved wrongly! 0.25105258663511243
+[20Feb2021 16:46:44.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[20Feb2021 16:46:44.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Feb2021 16:46:44.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Feb2021 16:46:44.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Feb2021 16:46:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Feb2021 16:46:47.253] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Feb2021 16:46:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Feb2021 16:46:47.255] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2021 16:46:47.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Feb2021 16:46:47.257] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2021 16:46:47.299] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Feb2021 16:46:48.059] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2021 16:46:48.063] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
